@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "紫陽花",
+  "base_artist": "RIKON",
+  "createdAt": "2025-12-01T18:07:40.946448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/01_紫陽花_SID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "シド",
+      "has_synced": true,
+      "path": "select/02_紫陽花_シド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "ironomi feat. ASPIDISTRAFLY",
+      "has_synced": false,
+      "path": "select/03_紫陽花_ironomi_feat._ASPIDISTRAFLY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/04_紫陽花_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/05_紫陽花_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "Asriel",
+      "has_synced": false,
+      "path": "select/06_紫陽花_Asriel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "鷺原左京(声:保志総一朗)",
+      "has_synced": false,
+      "path": "select/07_紫陽花_鷺原左京(声_保志総一朗).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紫陽花 (先行配信 ver.)",
+      "artist": "梶原岳人",
+      "has_synced": true,
+      "path": "select/08_紫陽花_(先行配信_ver.)_梶原岳人.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/09_紫陽花_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/10_紫陽花_PEOPLE_1.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "紫陽花 - hydrangea",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/11_紫陽花_-_hydrangea_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "紫陽花",
+      "artist": "離婚伝説",
+      "has_synced": true,
+      "path": "select/12_紫陽花_離婚伝説.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "紫陽花~bonus track~",
+      "artist": "中田裕二",
+      "has_synced": true,
+      "path": "select/13_紫陽花~bonus_track~_中田裕二.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紫陽花",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_01_紫陽花_NIKIIE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "紫陽花",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_02_紫陽花_NIKIIE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "紫陽花",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_03_紫陽花_NIKIIE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "紫陽花",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_04_紫陽花_NIKIIE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "紫陽花",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_05_紫陽花_NIKIIE.txt"
+    }
+  ]
+}
